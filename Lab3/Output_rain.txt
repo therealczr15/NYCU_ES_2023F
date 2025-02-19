@@ -1,0 +1,4 @@
+The data number:	1	
+max rainfall per 1 hour is:	25.5	mm	
+Occurrence date and hour:	2021/7/20	19	
+Wind speed (m/s):	1.1	m/s	
